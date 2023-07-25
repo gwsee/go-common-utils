@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/rand"
 	"math/big"
-	//hcrypto "git.hyperchain.cn/dmlab/go-common-utils/certgen/crypto"
+	//hcrypto "github.com/gwsee/go-common-utils/certgen/crypto"
 )
 
 // ECDSASignature represents an ECDSA signature

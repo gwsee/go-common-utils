@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	gmx509 "git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives/x509"
+	gmx509 "github.com/gwsee/go-common-utils/certgen/primitives/x509"
 )
 
 // PrivateKeyToDER marshals a private key to der

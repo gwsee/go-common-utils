@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/mclock"
+	"github.com/gwsee/go-common-utils/mclock"
 )
 
 // Subscription represents a stream of events. The carrier of the events is typically a

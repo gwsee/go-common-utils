@@ -45,7 +45,7 @@ import (
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/sha3"
 
-	sm3 "git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi/sm3"
+	sm3 "github.com/gwsee/go-common-utils/certgen/guomi/sm3"
 )
 
 // pkixPublicKey reflects a PKIX public key structure. See SubjectPublicKeyInfo

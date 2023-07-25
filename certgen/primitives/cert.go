@@ -16,9 +16,9 @@ import (
 
 	"github.com/op/go-logging"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi/sm2"
-	gmx509 "git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives/x509"
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives/x509/pkix"
+	"github.com/gwsee/go-common-utils/certgen/guomi/sm2"
+	gmx509 "github.com/gwsee/go-common-utils/certgen/primitives/x509"
+	"github.com/gwsee/go-common-utils/certgen/primitives/x509/pkix"
 )
 
 var (

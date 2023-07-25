@@ -3,7 +3,7 @@ package rotatelogs
 import (
 	"time"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/log/file-rotatelogs/internal/option"
+	"github.com/gwsee/go-common-utils/log/file-rotatelogs/internal/option"
 )
 
 const (

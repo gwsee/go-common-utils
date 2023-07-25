@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	rotatelogs "git.hyperchain.cn/dmlab/go-common-utils/log/file-rotatelogs"
+	rotatelogs "github.com/gwsee/go-common-utils/log/file-rotatelogs"
 	"github.com/pkg/errors"
 	"github.com/rifflock/lfshook"
 	"github.com/sirupsen/logrus"

@@ -7,9 +7,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi/sm2"
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives"
-	gmx509 "git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives/x509"
+	"github.com/gwsee/go-common-utils/certgen/guomi/sm2"
+	"github.com/gwsee/go-common-utils/certgen/primitives"
+	gmx509 "github.com/gwsee/go-common-utils/certgen/primitives/x509"
 	"github.com/pkg/errors"
 )
 

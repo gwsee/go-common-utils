@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"errors"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/common"
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi"
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi/sm2"
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives"
+	"github.com/gwsee/go-common-utils/certgen/common"
+	"github.com/gwsee/go-common-utils/certgen/guomi"
+	"github.com/gwsee/go-common-utils/certgen/guomi/sm2"
+	"github.com/gwsee/go-common-utils/certgen/primitives"
 )
 
 type accountJSON struct {

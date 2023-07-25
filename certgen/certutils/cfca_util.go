@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi/sm2"
-	gmx509 "git.hyperchain.cn/dmlab/go-common-utils/certgen/primitives/x509"
+	"github.com/gwsee/go-common-utils/certgen/guomi/sm2"
+	gmx509 "github.com/gwsee/go-common-utils/certgen/primitives/x509"
 )
 
 //1. 申请者名称 2.有效期截止时间（yyyyMMddHHmmss）3.证书类型（eg. tcert）4.P10

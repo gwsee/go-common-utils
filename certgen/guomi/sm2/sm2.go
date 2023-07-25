@@ -30,8 +30,8 @@ import (
 	"io"
 	"math/big"
 
-	"git.hyperchain.cn/dmlab/go-common-utils/certgen/common"
-	sm3 "git.hyperchain.cn/dmlab/go-common-utils/certgen/guomi/sm3"
+	"github.com/gwsee/go-common-utils/certgen/common"
+	sm3 "github.com/gwsee/go-common-utils/certgen/guomi/sm3"
 )
 
 const (
